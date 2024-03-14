@@ -28,7 +28,7 @@ Program ini menggunakan dua kelas yaitu kelas Mahasiswa dan kelas Menu.
     
 2. Kelas Menu
     
-    Kelas ini memiliki tujuh method, yaitu:
+    Kelas ini memiliki enam method, yaitu:
     
     - setTable(): mengatur tabel yang ditampilkan (public final DefaultTableModel)
     - insertData(): menambah data mahasiswa (public void)
